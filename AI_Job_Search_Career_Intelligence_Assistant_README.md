@@ -777,7 +777,7 @@ These are intentionally outside the current local-first scope.
 
 **Manjunath G L**
 
-Mechatronics Engineering | Data Analytics | Python | SQL | Power BI | AI | Automation
+Data Analytics | Python | SQL | Power BI | AI | Automation
 
 ---
 
