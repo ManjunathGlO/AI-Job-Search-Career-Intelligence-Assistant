@@ -1,0 +1,62 @@
+{
+  "name": "Candidate",
+  "target_roles": [
+    "Data Analyst",
+    "Business Analyst",
+    "BI Analyst",
+    "Junior Data Analyst"
+  ],
+  "skills": [
+    "SQL",
+    "Excel",
+    "Power BI",
+    "Python",
+    "Pandas",
+    "Tableau",
+    "Data Visualization",
+    "Machine Learning",
+    "AI",
+    "IIoT"
+  ],
+  "locations": [
+    "Bengaluru",
+    "Hyderabad",
+    "Pune",
+    "Chennai",
+    "Remote"
+  ],
+  "level": "Entry Level",
+  "education": [],
+  "summary": "",
+  "projects": [],
+  "resume_text": "",
+  "job_feed": {
+    "roles": [
+      "Data Analyst",
+      "Business Analyst",
+      "BI Analyst",
+      "Junior Data Analyst"
+    ],
+    "locations": [
+      "Bengaluru",
+      "Hyderabad",
+      "Pune",
+      "Chennai",
+      "Remote"
+    ],
+    "keywords": [
+      "SQL",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Pandas",
+      "Tableau",
+      "Data Visualization",
+      "Machine Learning"
+    ],
+    "min_score": 60,
+    "sources": [],
+    "search": "",
+    "include_ignored": false
+  }
+}
