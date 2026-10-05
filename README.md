@@ -781,6 +781,43 @@ Data Analytics | Python | SQL | Power BI | AI | Automation
 
 ---
 
+## 🚀 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/manjunathgl/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/ManjunathGlO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://portfolio-chi-ruby-36.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-1F4E79?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>📊 Turning Data into Insights • 🤖 Building Intelligent Solutions • 🚀 Creating Business Impact</b>
+</p>
+
+<p align="center">
+  <i>Open to Data Analyst opportunities, collaborations, and meaningful projects.</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ManjunathGlO&style=flat-square&color=1F4E79" alt="Profile Views"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with curiosity, consistency, and a passion for data.</sub>
+</p>
+---
+
 ## ⭐ If You Found This Project Useful
 
 Feel free to star the repository and explore the implementation.
