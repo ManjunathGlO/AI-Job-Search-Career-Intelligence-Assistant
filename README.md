@@ -811,11 +811,10 @@ Data Analytics | Python | SQL | Power BI | AI | Automation
   <img src="https://komarev.com/ghpvc/?username=ManjunathGlO&style=flat-square&color=1F4E79" alt="Profile Views"/>
 </p>
 
----
-
 <p align="center">
   <sub>Built with curiosity, consistency, and a passion for data.</sub>
 </p>
+
 ---
 
 ## ⭐ If You Found This Project Useful
